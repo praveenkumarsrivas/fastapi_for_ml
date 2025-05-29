@@ -171,10 +171,18 @@ Made with ❤️ by [Praveen](https://github.com/praveenkumarsrivas)
 
 ## Special Thanks to [CampusX](https://www.youtube.com/@campusx-official) ❤️
 
+<<<<<<< HEAD
 ## 📸 Screenshots
+=======
+## 📸 Screenshots (Optional)
+>>>>>>> f7de9cdf8eb0090bdda47c0222c1a143ece93867
 
 ![Health Premium Calculator](image.png)
 
 ---
 
+<<<<<<< HEAD
 ## 🚀 keep Learning....
+=======
+## 🚀 keep Learning
+>>>>>>> f7de9cdf8eb0090bdda47c0222c1a143ece93867
