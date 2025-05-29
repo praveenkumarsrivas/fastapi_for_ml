@@ -3,7 +3,7 @@ import requests
 
 API_URL = "http://localhost:8000/predict" 
 
-st.title("Insurance Premium Category Predictor")
+st.title("🏥 HealthGuard AI Smart Insurence Premium Predictor")
 
 st.markdown("Enter your details below:")
 
