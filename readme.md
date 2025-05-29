@@ -136,6 +136,18 @@ The prediction model takes into account:
 
 Returns: **Insurance Premium Category** (e.g., High, Medium, Low)
 
+```mermaid
+graph TD
+    A[User Input] --> B[Feature Engineering]
+    B --> C[BMI Calculation]
+    B --> D[Lifestyle Risk]
+    B --> E[City Tier Mapping]
+    C --> F[ML Model]
+    D --> F
+    E --> F
+    F --> G[Risk Prediction]
+```
+
 ---
 
 ## 📦 Dependencies
