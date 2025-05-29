@@ -1,11 +1,12 @@
 
-# 🏥 HealthGuard AI: Smart Patient Management & Insurance Predictor 🚀
-
-
-
 # 🩺 AI-powered Patient Management & Insurance Premium Predictor 🚀
 
 Welcome to the **Patient Management & Insurance Premium Prediction System** – a full-stack project that combines FastAPI, a trained ML model, and Streamlit to manage patient records and predict insurance premium categories based on user details.
+
+---
+
+### Agenda:
+In this entire Repo we are mostly focusing on FastAPI with the small ML Model, so that we can understand how one ML model can be used from frontend to get the output.
 
 ---
 
