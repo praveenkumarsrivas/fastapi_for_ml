@@ -32,10 +32,10 @@ In this entire Repo we are mostly focusing on FastAPI with the small ML Model, s
 ```
 
 📦fastapi_for_ml/
-├── basic_concepts_fastapi/
+├── basic_concepts_fastapi/     ## This is for learning the FastAPI concepts
 │    └── main.py                # Patient management API (FastAPI)
 │    └── patients.json          # Data store for patient records
-├── fastapi_with_ml_model/
+├── fastapi_with_ml_model/      # the real project of Premium calculation using ML model
 │    └── app.py                 # ML prediction API (FastAPI)
 │    └──  frontend.py           # Streamlit UI for prediction
 │    └── insurance_data.csv     # Data to train the model
